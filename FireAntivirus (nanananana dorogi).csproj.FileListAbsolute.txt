@@ -1,0 +1,16 @@
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\bin\Debug\FireAntivirus (nanananana dorogi).exe.config
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\bin\Debug\FireAntivirus (nanananana dorogi).exe
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\bin\Debug\FireAntivirus (nanananana dorogi).pdb
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus (nanananana dorogi).csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus__nanananana_dorogi_.Form1.resources
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus__nanananana_dorogi_.Properties.Resources.resources
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus (nanananana dorogi).csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus (nanananana dorogi).csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus (nanananana dorogi).exe
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus (nanananana dorogi).pdb
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus__nanananana_dorogi_._64Gram.resources
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus__nanananana_dorogi_.d_jl.resources
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus__nanananana_dorogi_.Главное_меню.resources
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus__nanananana_dorogi_.костянчик.resources
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus__nanananana_dorogi_.ратник_от_лаффа.resources
+C:\Users\Никита\source\repos\FireAntivirus (nanananana dorogi)\FireAntivirus (nanananana dorogi)\obj\Debug\FireAntivirus__nanananana_dorogi_.регистрация.resources
